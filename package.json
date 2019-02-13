@@ -1,0 +1,24 @@
+{
+  "name": "reduxfaster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rui Esteves",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ruicarest/redux-faster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ruicarest/redux-faster/issues"
+  },
+  "homepage": "https://github.com/ruicarest/redux-faster#readme",
+  "description": ""
+}
